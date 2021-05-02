@@ -1,0 +1,26 @@
+Negócio: 
+-----------------------------------------
+
+Qual é o negócio?
+
+- Quais são os problemas/oportunidades?
+
+
+- Quais são os vocábulos de negócio?
+
+- Quem são os stakeholders?
+
+- Quais são os processos de negócio?
+
+- Quais são as regras de negócio?
+
+
+REQUISITOS:
+    R0001: 
+    R0002: 
+    R0003: 
+
+
+
+
+
