@@ -1,26 +1,36 @@
-Negócio: 
------------------------------------------
+Negócio 
+===============================
 
-Qual é o negócio?
+Problema / Oportunidade
+===============================
 
-- Quais são os problemas/oportunidades?
+Stakeholders
+===============================
 
+Vocabulário de negócio
+===============================
 
-- Quais são os vocábulos de negócio?
+Atividade de Negócio
+==============================
 
-- Quem são os stakeholders?
+Processo de Negócio
+==============================
 
-- Quais são os processos de negócio?
+Regras de Negócio
+==============================
 
-- Quais são as regras de negócio?
+RN0001 - Cálculo do IAC
+            
+RN002 - 
 
+Requisitos
+==============================
+RF0001 - 
 
-REQUISITOS:
-    R0001: 
-    R0002: 
-    R0003: 
+RF0002 - 
 
-
+RF0003 - 
+            
 
 
 
