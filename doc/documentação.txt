@@ -3,19 +3,6 @@ Negócio
 
 Problema / Oportunidade
 ===============================
-Um grupo de alunos de uma escola municipal da cidade de Mogi das Cruzes precisa fazer diversos cálculos durante uma de suas matérias sendo alguns deles o cálculo do perímetro e área de retângulos e circunferências. A realização manual do cálculo é lenta e propensa a erros, além de consumir boa parte do tempo disponível dos alunos durante as aulas devido ao grande volume de exercícios propostos a eles.
-
-Por que não deixar os alunos fazerem o cálculo manualmente?
-A matéria possui um curto período de tempo (50 minutos) e percebeu-se que os alunos passam uma boa parte desse tempo fazendo apenas cálculos de perímetro e área, sendo que esse não é o foco principal dos exercícios, fazendo assim com que os alunos não tenham tempo suficiente para realizar outros cálculos importantes.
-
-Por que não usar calculadoras de área e perímetro disponíveis na internet?
-A escola não possui conexão a internet.
-
-Por que não usar celulares com aplicativos específicos para realizar essas operações?
-Não é permitido o uso de celulares na sala de aula.
-
-Qual é a solução proposta?
-A sala possui um computador, com ele será feito o cálculo do perímetro e área dos retângulos e circunferências previamente para assim disponibilizar as informações para os alunos.  
 
 Stakeholders
 ===============================
@@ -26,38 +13,24 @@ Vocabulário de negócio
     Perímetro: O perímetro é a medida do contorno de um objeto bidimensional, ou seja, a soma de todos os lados de uma figura geométrica. 
 
     Área: Área é um conceito matemático que pode ser definida como quantidade de espaço bidimensional, ou seja, de superfície.
-
+    
 Atividade de Negócio
-===============================
+==============================
 
 A001 - Realização do calculo da área e perímetro da circunferência e retângulo.
 
 Processo de Negócio
-===============================
+==============================
 
 Regras de Negócio
-===============================
+==============================
 
-<<<<<<< HEAD
-RN001 - O cálculo do perímetro é feito a partir da fórmula (2 * PI * r) para circunferências e (2 * (BASE + ALTURA)) para retângulos.  
-=======
-RN0001 - 
->>>>>>> ca3e1ec0108117f22e64131e29061c57c0d8c4b4
+RN001 - O cálculo do perímetro é feito a partir da fórmula (2 * PI * r) para circunferências e 2 * (BASE + ALTURA) para retângulos.  
             
 RN002 - O cálculo da área é realizado utilizando a fórmula (PI * r^2) para circunferências e (BASE * ALTURA) para retângulos.
 
 Requisitos
-<<<<<<< HEAD
 ==============================
-=======
-===============================
-RF0001 - 
-
-RF0002 - 
-
-RF0003 - 
-            
->>>>>>> ca3e1ec0108117f22e64131e29061c57c0d8c4b4
 
 RF001 - Menu
     O programa deve possuir um menu que possibilite ao usuário a escolha do que deseja calcular.
