@@ -10,8 +10,14 @@ Stakeholders
 Vocabulário de negócio
 ===============================
 
+    Perímetro: O perímetro é a medida do contorno de um objeto bidimensional, ou seja, a soma de todos os lados de uma figura geométrica. 
+
+    Área: Área é um conceito matemático que pode ser definida como quantidade de espaço bidimensional, ou seja, de superfície.
+
 Atividade de Negócio
 ==============================
+
+A001 - Realização do calculo da área e perímetro da circunferência e retângulo.
 
 Processo de Negócio
 ==============================
@@ -19,18 +25,18 @@ Processo de Negócio
 Regras de Negócio
 ==============================
 
-RN0001 - Cálculo do IAC
+RN001 - O cálculo do perímetro é feito a partir da fórmula (2 * PI * r) para circunferências e (2 * (BASE + ALTURA)) para retângulos.  
             
-RN002 - 
+RN002 - O cálculo da área é realizado utilizando a fórmula (PI * r^2) para circunferências e (BASE * ALTURA) para retângulos.
 
 Requisitos
 ==============================
-RF0001 - 
 
-RF0002 - 
+RF001 - Menu
+    O programa deve possuir um menu que possibilite ao usuário a escolha do que deseja calcular.
 
-RF0003 - 
-            
+RF002 - Interface 
+    É necessário que o usuário tenha uma interface simples e fácil para realizar os cálculos.
 
-
-
+RF003 - Visualização dos resultados
+    O usuário precisa visualizar o resultado com clareza.
