@@ -15,22 +15,36 @@ Vocabulário de negócio
     Área: Área é um conceito matemático que pode ser definida como quantidade de espaço bidimensional, ou seja, de superfície.
 
 Atividade de Negócio
-==============================
+===============================
 
 A001 - Realização do calculo da área e perímetro da circunferência e retângulo.
 
 Processo de Negócio
-==============================
+===============================
 
 Regras de Negócio
-==============================
+===============================
 
+<<<<<<< HEAD
 RN001 - O cálculo do perímetro é feito a partir da fórmula (2 * PI * r) para circunferências e (2 * (BASE + ALTURA)) para retângulos.  
+=======
+RN0001 - 
+>>>>>>> ca3e1ec0108117f22e64131e29061c57c0d8c4b4
             
 RN002 - O cálculo da área é realizado utilizando a fórmula (PI * r^2) para circunferências e (BASE * ALTURA) para retângulos.
 
 Requisitos
+<<<<<<< HEAD
 ==============================
+=======
+===============================
+RF0001 - 
+
+RF0002 - 
+
+RF0003 - 
+            
+>>>>>>> ca3e1ec0108117f22e64131e29061c57c0d8c4b4
 
 RF001 - Menu
     O programa deve possuir um menu que possibilite ao usuário a escolha do que deseja calcular.
