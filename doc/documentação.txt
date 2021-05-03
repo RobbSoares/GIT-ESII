@@ -23,6 +23,9 @@ A sala possui um computador, com ele será feito o cálculo do perímetro e áre
 Stakeholders
 ===============================
 
+- Professores
+- Alunos
+
 Vocabulário de negócio
 ===============================
 
