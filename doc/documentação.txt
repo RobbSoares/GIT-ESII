@@ -1,6 +1,8 @@
 Negócio 
 ===============================
 
+Aprendizado dos alunos em uma escola municipal da cidade de Mogi das Cruzes. Mais especificamente, o cálculo de área e perímetro de retângulos e circunferências.
+
 Problema / Oportunidade
 ===============================
 
