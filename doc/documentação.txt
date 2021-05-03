@@ -3,6 +3,19 @@ Negócio
 
 Problema / Oportunidade
 ===============================
+Um grupo de alunos de uma escola municipal da cidade de Mogi das Cruzes precisa fazer diversos cálculos durante uma de suas matérias sendo alguns deles o cálculo do perímetro e área de retângulos e circunferências. A realização manual do cálculo é lenta e propensa a erros, além de consumir boa parte do tempo disponível dos alunos durante as aulas devido ao grande volume de exercícios propostos a eles.
+
+Por que não deixar os alunos fazerem o cálculo manualmente?
+A matéria possui um curto período de tempo (50 minutos) e percebeu-se que os alunos passam uma boa parte desse tempo fazendo apenas cálculos de perímetro e área, sendo que esse não é o foco principal dos exercícios, fazendo assim com que os alunos não tenham tempo suficiente para realizar outros cálculos importantes.
+
+Por que não usar calculadoras de área e perímetro disponíveis na internet?
+A escola não possui conexão a internet.
+
+Por que não usar celulares com aplicativos específicos para realizar essas operações?
+Não é permitido o uso de celulares na sala de aula.
+
+Qual é a solução proposta?
+A sala possui um computador, com ele será feito o cálculo do perímetro e área dos retângulos e circunferências previamente para assim disponibilizar as informações para os alunos.  
 
 Stakeholders
 ===============================
